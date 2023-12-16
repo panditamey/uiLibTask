@@ -13,6 +13,12 @@ Progressive ui tailwind based library.
   - [NavBar Example](#navbar-example)
   - [Text Example](#text-example)
 
+## Installation 
+
+```html
+npm i @panditamey/ammyui
+```
+
 ### Card Examples
 
 #### Basic Card
