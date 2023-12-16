@@ -124,7 +124,6 @@ Include examples or use cases to showcase different aspects of your form compone
 
 ### Modal Example
 
-Include examples or use cases to showcase different aspects of your modal component.
 
 #### Open Modal
 
@@ -149,7 +148,6 @@ Include examples or use cases to showcase different aspects of your modal compon
 
 ### NavBar Example
 
-Include examples or use cases to showcase different aspects of your NavBar component.
 
 #### My App NavBar
 
@@ -175,7 +173,6 @@ Include examples or use cases to showcase different aspects of your NavBar compo
 
 ### Text Example
 
-Include examples or use cases to showcase different aspects of your Text component.
 
 #### Custom Text Heading
 
