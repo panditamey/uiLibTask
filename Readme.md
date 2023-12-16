@@ -1,11 +1,10 @@
 Certainly! Here is the complete README.md content in Markdown format:
 
-# Project Name
+# Ammy UI
 
-A brief description of your project.
+Progressive ui tailwind based library.
 
 ## Table of Contents
-- [Overview](#overview)
 - [Installation](#installation)
 - [Usage](#usage)
   - [Card Examples](#card-examples)
@@ -14,10 +13,6 @@ A brief description of your project.
   - [Modal Example](#modal-example)
   - [NavBar Example](#navbar-example)
   - [Text Example](#text-example)
-
-## Overview
-
-Progressive ui tailwind based library.
 
 ### Card Examples
 
