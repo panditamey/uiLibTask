@@ -1,6 +1,5 @@
-// Modal.stories.tsx
 
-import React, { useState } from "react";
+import { useState } from "react";
 import type { Meta, Story } from "@storybook/react";
 import Modal, { ModalProps } from ".";
 
