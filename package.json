@@ -1,7 +1,7 @@
 {
-  "name": "AmmyUI",
+  "name": "@panditamey/ammyui",
   "private": false,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "files": [
     "dist"
@@ -56,5 +56,16 @@
   },
   "resolutions": {
     "jackspeak": "2.1.1"
-  }
+  },
+  "description": "Certainly! Here is the complete README.md content in Markdown format:",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panditamey/uiLibTask.git"
+  },
+  "author": "Amey Pandit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panditamey/uiLibTask/issues"
+  },
+  "homepage": "https://github.com/panditamey/uiLibTask#readme"
 }
