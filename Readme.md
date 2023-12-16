@@ -17,15 +17,7 @@ A brief description of your project.
 
 ## Overview
 
-Provide a concise overview of your project, explaining its purpose and key features.
-
-## Installation
-
-Describe how to install and set up your project. Include any dependencies that users need to install.
-
-## Usage
-
-Explain how users can use your project. Provide code snippets or examples to illustrate the usage.
+Progressive ui tailwind based library.
 
 ### Card Examples
 
