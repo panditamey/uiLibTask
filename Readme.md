@@ -21,9 +21,6 @@ Progressive ui tailwind based library.
 
 ### Card Examples
 
-Include examples or use cases to showcase different aspects of your card component.
-
-
 #### Basic Card
 
 ```html
@@ -56,7 +53,6 @@ Include examples or use cases to showcase different aspects of your card compone
 
 ### Button Examples
 
-Include examples or use cases to showcase different aspects of your button component.
 
 #### Solid Button
 
@@ -84,7 +80,6 @@ Include examples or use cases to showcase different aspects of your button compo
 
 ### Form Component Examples
 
-Include examples or use cases to showcase different aspects of your form components.
 
 #### Text Input
 
