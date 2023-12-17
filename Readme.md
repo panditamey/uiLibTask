@@ -176,3 +176,12 @@ npm i @panditamey/ammyui
   lorum ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.
 </Text>
 ```
+### TextBox
+
+```html
+<TextBox
+  onChange={() => {}}
+  placeholder="Enter text..."
+  value=""
+/>
+```
